@@ -59,7 +59,7 @@ Aplicación web en **JavaScript** que gestiona horarios y reservas de forma intu
 
 ## 🤝 Conectemos
 
-📫 **Email:** andymoorecbc@gmail.com (cambiálo por el tuyo)  
+📫 **Email:** andymoorecbc@gmail.com   
 💼 **LinkedIn:** https://www.linkedin.com/in/andy-moore-284342324/  
 
 ---
