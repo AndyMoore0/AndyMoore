@@ -2,7 +2,7 @@
 
 ### Python · JavaScript · Bots · Automatización · Desarrollo Web Básico
 
-Soy estudiante de Programación en la UTN y desarrollador en crecimiento. Me apasiona crear proyectos que resuelvan problemas reales: bots, automatizaciones y pequeñas aplicaciones web. Aprendo rápido, experimento, rompo cosas y las vuelvo a armar mejor que antes.
+Soy estudiante de Programación en la UTN y desarrollador en crecimiento. Me apasiona crear proyectos que resuelvan problemas reales: bots, automatizaciones y aplicaciones web. Aprendo rápido, experimento, rompo cosas y las vuelvo a armar mejor que antes.
 
 ---
 
@@ -29,12 +29,6 @@ Mini sitio web para gestionar turnos. Proyecto para practicar diseño, estructur
 
 ---
 
-## 📊 Stats
-
-![Andy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyMoore0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyMoore0&layout=compact&theme=tokyonight)
-
----
 
 ## 🎯 Actualmente aprendiendo
 - JavaScript y DOM  
