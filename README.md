@@ -1,69 +1,49 @@
-<h1 align="center">👋 ¡Hola! Soy Andy Moore</h1>
-<h3 align="center">Desarrollador Fullstack Junior | Python & JavaScript</h3>
+# 🌙 ¡Hola! Soy Andy Moore
 
-<p align="center">
-  Soy un desarrollador fullstack apasionado por crear soluciones simples y útiles.  
-  Me encantan los bots, las automatizaciones y las apps web limpias y funcionales.  
-  Actualmente estoy expandiendo mis habilidades y construyendo proyectos que me ayuden a crecer como profesional.
-</p>
+### Python · JavaScript · Bots · Automatización · Desarrollo Web Básico
+
+Soy estudiante de Programación en la UTN y desarrollador en crecimiento. Me apasiona crear proyectos que resuelvan problemas reales: bots, automatizaciones y pequeñas aplicaciones web. Aprendo rápido, experimento, rompo cosas y las vuelvo a armar mejor que antes.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tecnologías y herramientas
 
-**Lenguajes:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend:**  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Herramientas y otros:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📌 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-### 🔹 Bot de Telegram
-Automatización creada en **Python**, ideal como ejemplo de integración con APIs.  
-📁 *Repo:* `telegram-bot`
+### 🤖 Bot Automatizado en Telegram
+Bot construido en Python que combina interacción por API, procesamiento de usuarios, automatización de tareas y manejo de datos.
+**Tecnologías:** Python, Telethon/Selenium, JSON, Git
 
-### 🔹 Sistema de Reservas de Pádel
-Aplicación web en **JavaScript** que gestiona horarios y reservas de forma intuitiva.  
-📁 *Repo:* `reservas-padel`
-
----
-
-## 📈 Estadísticas
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AndyMoore0&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyMoore0&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+### 🎾 App de Reservas de Pádel
+Mini sitio web para gestionar turnos. Proyecto para practicar diseño, estructura y funcionalidad básica.
+**Tecnologías:** HTML, CSS, GitHub Pages
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 📊 Stats
 
-- Desarrollo backend más avanzado (APIs limpias, mejores patrones)
-- Integración de automatizaciones
-- Mejores prácticas con Node.js y Python
-
----
-
-## 🤝 Conectemos
-
-📫 **Email:** andymoorecbc@gmail.com   
-💼 **LinkedIn:** https://www.linkedin.com/in/andy-moore-284342324/  
+![Andy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyMoore0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyMoore0&layout=compact&theme=tokyonight)
 
 ---
 
-<p align="center">
-  ✨ *Siempre aprendiendo, creando y mejorando.* ✨
-</p>
+## 🎯 Actualmente aprendiendo
+- JavaScript y DOM  
+- Python avanzado  
+- Automatización  
+- Buenas prácticas de Git  
+
+---
+
+## 📫 Contacto
+**Email:** andymoorecbc@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/andy-moore-284342324  
